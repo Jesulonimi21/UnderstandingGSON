@@ -1,0 +1,19 @@
+{
+  "Family": [
+    {
+      "age": 28,
+      "role": "sister"
+    },
+    {
+      "age": 19,
+      "role": "cousin"
+    }
+  ],
+  "address": {
+    "city": "Lagos",
+    "country": "Nigeria"
+  },
+  "age": 17,
+  "firstName": "Jesulonimi",
+  "mail": "anjola4jeez@gmail.com"
+}
